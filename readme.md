@@ -1,3 +1,7 @@
+# Sobre
+Sobre este projeto foi para um treino das linguagens do evento da Rocteseat sobre desenvolvimento Front-end. E com isso foi desenvolvido este projeto que de 
+acordo com o que o usuário digitar o sistema resulta de forma aleatório sobre o seu "destino".
+
 # HTML
 - HyperText Markup Language
 
